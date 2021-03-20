@@ -1,0 +1,22 @@
+*
+{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+div.heading{
+	background-color:#ff8040;
+	border:double;
+	border-color:black;
+	width:100%;
+	height: 2.6cm;
+	font: oblique;
+	font-style:oblique;
+	background-position:center;
+	background-attachment: fixed;
+	font-size: 3em;
+	color:#ff8000;
+	background-image: url("./pictures/nova.jpg");
+	background-size: cover;
+}

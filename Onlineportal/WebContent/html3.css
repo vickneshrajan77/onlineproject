@@ -1,0 +1,38 @@
+html{
+	background-color: #ff8040;
+	
+}
+body{
+	color:#ff8040;
+	font-style:italic;
+	box-sizing:border-box;
+	display: block;
+	width:500px;
+	height:550px;
+	background: white;
+	margin-left:30%;
+	border:double;
+	padding-top:100px;
+	padding-left: 125px;
+}
+img.avat
+	{
+	width:130px;
+	height:100px;
+	margin-left: 60px;
+	margin-top: -50px;
+	}
+	
+	#est{
+	width: 250px;
+	height: 20px;
+	}
+	button
+	{
+	color:white;
+	margin:10px;
+	background-color: #ff8040;
+	width:250px;
+	height:28px;
+	cursor: pointer;
+	}
